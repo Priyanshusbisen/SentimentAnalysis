@@ -17,7 +17,7 @@ Preprocessing and Training
 
 1.	Run Untrained_Model.py for training of the raw data with multiple Classifiers.
 
-2.	Or You could Simply run SentimentAnalysis_TrainedModel for already trained model.Using pickled Classifier That i trained and Pickled locally.
+2.  Since the training takes up too much time you can train once and pickle the trained classifiers and use that script later.
 
 
 Other Details:
