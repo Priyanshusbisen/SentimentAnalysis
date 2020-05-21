@@ -17,7 +17,9 @@ Preprocessing and Training
 
 1.	Run Untrained_Model.py for training of the raw data with multiple Classifiers.
 
-2.  Since the training takes up too much time you can train once and pickle the trained classifiers and use that script later.
+2.  Since the training takes up too much time you can train once and pickle the trained classifiers.
+
+3.  Once you pickle everythin needed you can run the trained model which will return the sentiment of input text.
 
 
 Other Details:
